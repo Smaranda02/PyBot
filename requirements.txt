@@ -1,6 +1,5 @@
 
 discord
-nextcord.ext 
 dataclasses 
 youtube_dl
 aiohttp  #for gpt
