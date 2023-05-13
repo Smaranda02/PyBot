@@ -4,7 +4,6 @@ dataclasses
 youtube_dl
 aiohttp  #for gpt
 asyncio  #for music
-time
 schedule 
 pyjokes
 random
