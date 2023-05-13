@@ -1,0 +1,18 @@
+os
+discord
+nextcord.ext 
+dataclasses 
+youtube_dl
+aiohttp  #for gpt
+asyncio  #for music
+time
+schedule 
+pyjokes
+random
+ datetime
+ requests
+json
+gTTS
+nextcord
+pyowm
+
