@@ -1,4 +1,4 @@
-os
+
 discord
 nextcord.ext 
 dataclasses 
