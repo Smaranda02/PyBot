@@ -8,8 +8,7 @@ schedule
 pyjokes
  datetime
  requests
-json
 gTTS
 nextcord
-pyowm
+
 
