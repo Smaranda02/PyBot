@@ -6,7 +6,6 @@ aiohttp  #for gpt
 asyncio  #for music
 schedule 
 pyjokes
-random
  datetime
  requests
 json
